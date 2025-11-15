@@ -1,3 +1,19 @@
+## About me
+👋 Hello, I'm Attila! 
+I’m a second-year Computer Engineering (BSc) student actively looking for my first opportunity in IT.
+I’m passionate about software development, DevOps practices, and building scalable, reliable solutions.
+Currently, I’m expanding my skills in programming, cloud technologies, and automation tools.
+
+Here you can see my learning progress and personal projects.
+
+Feel free to reach out to me!
+
+## 🎯 What I’m looking for
+An entry-level role, internship, or junior position where I can grow, contribute, and learn from real-world projects.
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/attila-szabo-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xsajti) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@sajti-the-scripter) 
